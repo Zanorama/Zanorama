@@ -3,4 +3,4 @@
 # Hey im Zanorama 👋
 ## Coding since 20'
 
-![](https://komarev.com/ghpvc/?username=Zanorama&color=blueviolet)
+<img src="https://discord.c99.nl/widget/theme-4/1027088799060209755.png"></img>
